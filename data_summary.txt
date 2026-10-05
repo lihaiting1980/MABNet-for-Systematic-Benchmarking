@@ -1,0 +1,8 @@
+total_stations: 2213
+high_quality_stations: 405
+time_range: 2024-01-01 00:00:00 жа 2024-12-31 23:00:00
+total_hours: 8784
+temperature_shape: (8784, 405)
+pressure_shape: (8784, 405)
+wind_speed_shape: (8784, 405)
+precipitation_shape: (8784, 405)
